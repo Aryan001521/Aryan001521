@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋  
 
-<!--
-**Aryan001521/Aryan001521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & Data Science Enthusiast  
+Focused on Time-Series Forecasting, Explainable AI, and Real-World ML Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### 🌫️ AQI Research & Forecast Platform
+An end-to-end explainable AQI forecasting system built using XGBoost and Streamlit.
+
+🔹 Multi-horizon forecasting (24h / 7d / 30d)  
+🔹 Recursive time-series modeling  
+🔹 SHAP-based explainability  
+🔹 Interactive dashboard deployment  
+
+🔗 Live Demo:  
+https://aqiprediction-c73dkekehsulnpsean7c5x.streamlit.app/
+
+---
+
+## 🧠 Technical Skills
+
+**Languages:** Python  
+
+**Machine Learning:** Scikit-Learn, XGBoost, Time-Series Modeling  
+
+**Data Analysis:** Pandas, NumPy  
+
+**Visualization:** Plotly, Matplotlib  
+
+**Deployment:** Streamlit  
+
+---
+
+## 📊 Areas of Interest
+
+- Time-Series Forecasting  
+- Explainable AI  
+- Environmental Data Science  
+- Predictive Modeling  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: (https://www.linkedin.com/in/aryan-sharma-188937315/)
+
+---
+
+⭐ Currently building production-style ML applications.
