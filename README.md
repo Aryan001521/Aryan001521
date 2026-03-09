@@ -15,9 +15,6 @@ An end-to-end explainable AQI forecasting system built using XGBoost and Streaml
 🔹 SHAP-based explainability  
 🔹 Interactive dashboard deployment  
 
-🔗 Live Demo:  
-https://aqiprediction-c73dkekehsulnpsean7c5x.streamlit.app/
-
 ---
 
 ## 🧠 Technical Skills
