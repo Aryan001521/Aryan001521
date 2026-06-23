@@ -1,49 +1,117 @@
-# Hi, I'm Aryan 👋  
+# Hi, I'm Aryan Sharma 👋
 
-Machine Learning & Data Science Enthusiast  
-Focused on Time-Series Forecasting, Explainable AI, and Real-World ML Systems  
+🚀 Aspiring Data Scientist & Machine Learning Engineer
+
+Passionate about building real-world AI applications that solve business problems through Machine Learning, Data Analytics, Forecasting, Recommendation Systems, and Interactive Dashboards.
 
 ---
 
-## 🚀 Featured Project
+## 🔥 Featured Projects
 
-### 🌫️ AQI Research & Forecast Platform
-An end-to-end explainable AQI forecasting system built using XGBoost and Streamlit.
+### 🛍 Shopper Spectrum
+AI-Powered Customer Segmentation & Product Recommendation System
 
-🔹 Multi-horizon forecasting (24h / 7d / 30d)  
-🔹 Recursive time-series modeling  
-🔹 SHAP-based explainability  
-🔹 Interactive dashboard deployment  
+Built using:
+- RFM Analysis
+- K-Means Clustering
+- Collaborative Filtering
+- Streamlit
+- Plotly
+- Hugging Face
+
+✨ Features:
+- Customer Segmentation
+- Product Recommendation Engine
+- Interactive Analytics Dashboard
+- Business Insights
+
+🌐 Live Demo:
+https://shoopkeeper-spectrum-dhopjeigjkavtzdqbkpbpb.streamlit.app/
+
+💻 GitHub:
+:contentReference[oaicite:0]{index=0}
+
+---
+
+### 🌫 AQI Research & Forecast Platform
+
+An Explainable AI platform for Air Quality Forecasting using advanced machine learning models.
+
+✨ Features:
+- 24 Hour AQI Forecast
+- 7 Day AQI Forecast
+- 30 Day AQI Forecast
+- SHAP Explainability
+- Interactive Dashboard
+
+Tech Stack:
+- XGBoost
+- Time Series Forecasting
+- SHAP
+- Streamlit
 
 ---
 
 ## 🧠 Technical Skills
 
-**Languages:** Python  
+### Programming
+- Python
 
-**Machine Learning:** Scikit-Learn, XGBoost, Time-Series Modeling  
+### Machine Learning
+- Scikit-Learn
+- XGBoost
+- K-Means Clustering
+- Recommendation Systems
+- Time-Series Forecasting
 
-**Data Analysis:** Pandas, NumPy  
+### Data Analysis
+- Pandas
+- NumPy
 
-**Visualization:** Plotly, Matplotlib  
+### Data Visualization
+- Plotly
+- Matplotlib
 
-**Deployment:** Streamlit  
-
----
-
-## 📊 Areas of Interest
-
-- Time-Series Forecasting  
-- Explainable AI  
-- Environmental Data Science  
-- Predictive Modeling  
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: (https://www.linkedin.com/in/aryan-sharma-188937315/)
+### Deployment
+- Streamlit
+- Hugging Face
 
 ---
 
-⭐ Currently building production-style ML applications.
+## 📚 Currently Learning
+
+- Deep Learning
+- MLOps
+- Generative AI
+- Advanced Time-Series Forecasting
+
+---
+
+## 🎯 Areas of Interest
+
+- Machine Learning
+- Data Science
+- Explainable AI
+- Recommendation Systems
+- Forecasting
+- Business Analytics
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub Stats Card -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan001521&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn
+
+:contentReference[oaicite:1]{index=1}
+
+---
+
+⭐ Building real-world Machine Learning projects, one model at a time.
