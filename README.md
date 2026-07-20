@@ -110,7 +110,7 @@ Tech Stack:
 
 💼 LinkedIn
 
-:contentReference[oaicite:1]{index=1}
+https://www.linkedin.com/in/aryan-sharma-188937315/
 
 ---
 
